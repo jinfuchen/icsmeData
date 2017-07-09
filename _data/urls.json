@@ -3,6 +3,7 @@
     "text": "About",
     "url": "/",
     "icon": "fa-comments"
+    "layout": "post"
   },
   {
     "text": "Data",
