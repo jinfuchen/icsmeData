@@ -11,12 +11,12 @@
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "url": "/",
     "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://jinfuchen.github.io/jinfu/",
     "icon": "fa-github"
   }
 ]
