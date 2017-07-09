@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In our paper "An Exploratory Study of Performance Regression Introducing Code Changes", due to limited space, we do only show the number of tests that have performance regression and improvement for each commit measured using response time. We will show the results for other metrics, CPU, Memory, I/O read and I/O write. Besides, we also share our orignal data online.
