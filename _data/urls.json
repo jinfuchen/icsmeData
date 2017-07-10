@@ -8,12 +8,12 @@
   {
     "text": "RxJava",
     "url": "/projects",
-    "icon": "fa-desktop"
+    "icon": "fa-stack-exchange"
   },
   {
     "text": "Hadoop",
     "url": "/hadoop",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-stack-exchange",
   },
   {
     "text": "Github",
