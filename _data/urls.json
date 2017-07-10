@@ -6,13 +6,13 @@
     "layout": "page"
   },
   {
-    "text": "Data",
+    "text": "RxJava",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "/#",
+    "text": "Hadoop",
+    "url": "/hadoop",
     "icon": "fa-graduation-cap",
   },
   {
