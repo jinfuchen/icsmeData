@@ -2,8 +2,7 @@
   {
     "text": "About",
     "url": "/",
-    "icon": "fa-comments",
-    "layout": "post"
+    "icon": "fa-comments"
   },
   {
     "text": "Data",
