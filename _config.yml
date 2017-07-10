@@ -2,7 +2,8 @@ title: ICSME
 description: ICSME Data
 author: Jinfu Chen
 logo: /icsmeData/static/img/avatar.png
-imageurl: /icsmeData/static/projects/
+rxjavaurl: /icsmeData/static/projects/
+hadoopurl: /icsmeData/static/hadoop/
 github: https://github.com/codeasashu
 about: Performance Research
 
