@@ -2,7 +2,7 @@
 	{
 		"name": "Reponse Time",
 		"image": "RxjavaResponseTime.jpg",
-		"url": "/static/projects/rxJava_runtime.csv",
+		"url": "/icsmeDta/static/projects/rxJava_runtime.csv",
 		"date": "Jan 2014",
 		"filename": "rxJava_runtime.csv",
 		"tags": ["Reponse Time"]
