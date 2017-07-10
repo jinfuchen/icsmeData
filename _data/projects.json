@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "CPU",
-		"image": "RxjavaResponseTime.jpg",
+		"image": "RxjavaCPU.jpg",
 		"url": "/icsmeData/static/projects/cpu_user.csv",
 		"date": "May 2014",
 		"filename": "cpu_user.csv",
