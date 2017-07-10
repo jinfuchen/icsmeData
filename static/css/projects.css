@@ -44,6 +44,7 @@ $text_size: 13px;
 
     .project-img {
         height: 200px;
+        width: auto;
         display: block;
         @include bg( cover );
     }
