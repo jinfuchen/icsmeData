@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Memory",
-		"image": "RxjavaResponseTime.jpg",
+		"image": "RxjavaMemory.jpg",
 		"url": "/icsmeData/static/projects/mem_rss.csv",
 		"date": "June 2014",
 		"filename": "mem_rss.csv",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "I/O traffic",
-		"image": "RxjavaResponseTime.jpg",
+		"image": "RxjavaIOread.jpg",
 		"url": "/icsmeData/static/projects/io_read.csv",
 		"date": "Oct 2016",
 		"filename": "io_read.csv",
