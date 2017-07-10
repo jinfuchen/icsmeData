@@ -34,7 +34,7 @@ layout: default
     			</div>
     			<div class="project-footer"> 
     				{% if i.url %} 
-    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm project-link" download="{{ i.filename }}">Original Data</a>
+    				<a href="{{ site.imageurl }}/{{ i.url }}" class="btn btn-info btn-raised btn-sm project-link" download="{{ i.filename }}">Original Data</a>
     				{% endif %}
     				<!--
                     <span class="project-timeline">{{ i.date }}</span>
