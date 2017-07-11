@@ -10,7 +10,7 @@ layout: default
     {% include project_tags.html %}
     {% for i in site.data.hadoop %}
     <div class="row">
-    <div class="project-item col-md-40 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
+    <div class="project-item col-md-100 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
     			<a href="{{ site.hadoopurl }}/{{ i.image }}" class="thickbox">
