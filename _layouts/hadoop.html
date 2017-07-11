@@ -9,8 +9,7 @@ layout: default
     
     {% include project_tags.html %}
     {% for i in site.data.hadoop %}
-    <br>
-    <div class="row">
+    <div class="project row">
     <div class="project-item" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
