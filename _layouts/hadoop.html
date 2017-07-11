@@ -6,9 +6,10 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    <div class="row">
+    
     {% include project_tags.html %}
     {% for i in site.data.hadoop %}
+    <div class="row">
     <div class="project-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well project-outer">
     		<div class="project-inner">
@@ -43,8 +44,9 @@ layout: default
     		</div>
     	</div>
         </div>
+     </div>
     {% endfor %}
-    </div>
+    
   </div>
 
 </article>
